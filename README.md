@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/4345e4993238250e7073ca6f8ecbaff9/6a7f86124e05d0ec-d1/s1280x1920/3b2d21d2b1fc5e24d72215d2db86b17106f1a8be.png)]
+![MasterHead](https://64.media.tumblr.com/4345e4993238250e7073ca6f8ecbaff9/6a7f86124e05d0ec-d1/s1280x1920/3b2d21d2b1fc5e24d72215d2db86b17106f1a8be.png)
 <h1 align="center">Hi 👋, I'm Fance Satria</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 <img align=“right” alt=“Ngoding” width=“400” src="/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">

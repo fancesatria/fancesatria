@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Android Studio and Laravel**
 
-- 📫 How to reach me **haribou991@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/fance-nusantara-b7058821a](https://www.linkedin.com/in/fance-nusantara-b7058821a)
 
 - ⚡ Fun fact **I'm a lifetime learner!**

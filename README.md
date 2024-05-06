@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fancesatria" alt="fancesatria" /></a> </p>
 
-- 🌱 I’m currently learning **.Net Core, Golang, Android Studio(Java), Laravel, Codeigniter**
+- 🌱 I’m currently learning **.Net Core, Golang, Android Studio(Java), Laravel**
 
 - 💬 Ask me about **Android Studio and Laravel**
 

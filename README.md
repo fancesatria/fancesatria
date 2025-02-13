@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android Studio and Laravel**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fance-nusantara-b7058821a](https://www.linkedin.com/in/fance-nusantara-b7058821a)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/fancenusantara"><u>here</u></a>
 
 - ⚡ Fun fact **I'm a lifetime learner!**
 
